@@ -1,4 +1,4 @@
-import { getCurrentView } from './views'
+import { getCurrentView } from '../contentScript/views'
 
 console.log('background is running')
 
