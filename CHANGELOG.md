@@ -11,5 +11,5 @@ Summary
 
 ## 0.0.0 [2024.05.30]
 
-- feat: initial
-- feat: generator by ![create-chrome-ext](https://github.com/guocaoyi/create-chrome-ext)
+-   feat: initial
+-   feat: generator by ![create-chrome-ext](https://github.com/guocaoyi/create-chrome-ext)

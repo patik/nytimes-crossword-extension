@@ -27,7 +27,7 @@ export default defineManifest({
 	},
 	content_scripts: [
 		{
-			matches: ['http://*/*', 'https://*/*'],
+			matches: ['http://nytimes.com/*', 'http://www.nytimes.com/*'],
 			js: ['src/contentScript/index.ts'],
 		},
 	],
